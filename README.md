@@ -50,7 +50,8 @@ The EMHz Sonic DSP engine is available for **commercial licensing**.
 
 If you're interested in integrating the engine into your product or acquiring the technology, reach out:
 
-**Emmanuel Mutaka** — Founder & Engineer  
+**Emmanuel Mutaka** — Founder & Lead Engineer  
+  TakaMann Labs
 `emmanuelmutaka21@gmail.com`
 
 ---
