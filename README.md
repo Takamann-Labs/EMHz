@@ -30,7 +30,6 @@
 |  **Sub-Atomic** | Multi-layer bass synthesis. Generates sub-harmonic depth beyond your source audio. |
 |  **Studio** | Schroeder reverb architecture. Room acoustics, spatial imaging, stereo widening. |
 |  **RAW Signal** | Unfiltered unprocessed audio. |
-Each mode has its own visual identity — color, glow, and layout built to match the sonic character.
 
 ---
 
